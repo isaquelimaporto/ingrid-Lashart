@@ -53,13 +53,13 @@ O site foi desenvolvido para fortalecer a presença digital de uma profissional 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/isaquelimaporto/ingrid-Lashart.git
+git clone https://github.com/isaquelimaporto/ingrid-lash-art.git
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd ingrid-Lashart
+cd ingrid-lash-art
 ```
 
 3. Abra o arquivo `index.html` no navegador.
@@ -69,7 +69,7 @@ Não é necessário instalar dependências.
 ## Estrutura do projeto
 
 ```text
-ingrid-Lashart/
+ingrid-lash-art/
 ├── Img/
 ├── docs/
 │   └── images/
